@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-        <header className="d-flex justify-content-between align-items-center mt-5 ">
+        <header className="d-flex justify-content-between align-items-center mt-5 container ">
             <img src="https://new.axilthemes.com/themes/splash/abstrak/assets/media/logo.svg"/>
             <ul className="d-flex justify-content-center align-items-center gap-5 ">
               <li>

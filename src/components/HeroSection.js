@@ -3,8 +3,23 @@ import Slider from "react-slick";
 
 
 export default function HeroSection(){
+
+  const settings = {
+      className: "center",
+      centerMode: true,
+      infinite: true,
+      centerPadding: "60px",
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      speed: 500,
+      autoplay: true,
+      autoplaySpeed: 3500,
+      cssEase: "linear",
+
+  };
+
     return(
-        <div className="">
+        <div className="container">
           <div className="w-100 mt-5 d-flex align-items-center justify-content-center text-center">
           <h1 className="fw-bold text-hero-font-size">Creative Agency, Corporate And Portfolio WordPress Theme</h1>
           </div>
@@ -35,5 +50,5 @@ export default function HeroSection(){
               </div>
           </div>
         </div>
-    )
+    );
 }
