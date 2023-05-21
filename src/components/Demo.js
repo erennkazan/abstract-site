@@ -1,4 +1,15 @@
+import { useState,useEffect } from 'react';
+import Products from '../api/product.json';
+import ProductItem from '../components/ui/ProductItem';
+
 export default function Demo(){
+
+  const [products , setProducts] = useState([]);
+
+  useEffect(()=>{
+    setProducts(Products);
+  },[])
+
     return(
         <div className="container">
             <div className="w-100 d-flex align-items-center justfiy-content-between mt-5 w-75">
@@ -24,6 +35,9 @@ export default function Demo(){
                   One Page Demo
                 </button>
               </div>
+            </div>
+            <div className="d-flex px-1 flex-wrap justify-content-center align-items-center text-center rounded-4 overflow-hidden">
+              {products.length && products.map((product,index)=> <ProductItem key={index} product={product}/>)}
             </div>
         </div>
     )
