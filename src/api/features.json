@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Elementor Page Builder",
+      "alt": "Elementor is the best WordPress Page Builder, with over 5M active installs. Create beautiful websites using a simple, intuitive drag and drop interface. Live Front End editing.",
+      "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-27.png"
+    },
+    {
+        "id": 2,
+        "title": "One-Click Demo Import",
+        "alt": "You can add the presented demos with just one click. The setup will be complete in 5-10 mins with our one-click solution.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-15.png"
+    },
+    {
+        "id": 3,
+        "title": "Gutenberg Support",
+        "alt": "The new Gutenberg has replaced the classic editor. It offers a new to create block-based functionality to create posts and pages in WordPress. You have Gutenberg's support for the theme.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-28.png"
+    },
+    {
+        "id": 4,
+        "title": "WooCommerce Support",
+        "alt": "The most customizable eCommerce platform for building your online business. Get started quickly and make your way.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/woo.png"
+    },
+    {
+        "id": 5,
+        "title": "Power Full Theme Options (Redux Framework)",
+        "alt": "The most powerful, flexible, and complete WordPress interface and panel builder ever!",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-29.png"
+    },
+    {
+        "id": 6,
+        "title": "35+ Resourceful Pages",
+        "alt": "All the pages are created based on real content that you will need to run your business. Change image and text and you’re good to go!",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-14.png"
+    },
+    {
+        "id": 7,
+        "title": "Fully Responsive Layout",
+        "alt": "All the pages of this Theme are responsive. We used the Bootstrap framework to build the website. It’s the best in class.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-13.png"
+    },
+    {
+        "id": 8,
+        "title": "FullyCustomizable",
+        "alt": "Our theme is fully customizable. You can change color combinations, fonts, icons, contents, images, etc. You can also add custom CSS.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-16.png"
+    },
+    {
+        "id": 9,
+        "title": "Retina Ready Icons",
+        "alt": "This theme comes with licensed premium quality icons from Linear icons. All the icons are font-based and ready to match the quality of any HQ.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-17.png"
+    },
+    {
+        "id": 10,
+        "title": "Google Fonts",
+        "alt": "A vast collection of Google fonts are integrating with the Theme. You can use any of them that goes with your branding.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-18.png"
+    },
+    {
+        "id": 11,
+        "title": "Font Awesome 5 Pro Icons",
+        "alt": "This theme comes with licensed premium quality icons from FontAwesome. All the icons are font-based and ready to match the quality of any HQ screen.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-30.png"
+    },
+    {
+        "id": 12,
+        "title": "Lifetime Update",
+        "alt": "Purchase our Theme only once and get lifetime updates. We keep updating our products to stay up to date with the latest trends and technology.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-20.png"
+    },
+    {
+        "id": 13,
+        "title": "Mobile Optimized",
+        "alt": "All the pages of this Theme are optimized. We used the Bootstrap framework to build the website. It’s the best in class.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-21.png"
+    },
+    {
+        "id": 14,
+        "title": "RTL Language Support",
+        "alt": "Arabic, Hebrew, Persian, and Urdu Sindhi are the most widespread RTL writing systems in modern times.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-32.png"
+    },
+    {
+        "id": 15,
+        "title": "Faster Loading",
+        "alt": "The website speed is very important for your SEO. Hence we’ve created Abstrak in a way that your website will load fast, and your ranking in search engines will be higher.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/icon/icon-31.png"
+    }
+  ]
