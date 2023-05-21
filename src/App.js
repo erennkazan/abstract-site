@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="container mt-5">
+    <div className="container ">
       <Header/>
       <HeroSection/>
       <Demo/>

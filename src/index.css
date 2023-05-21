@@ -5,3 +5,24 @@ a{
 ul{
   list-style-type: none;
 }
+.header-bg-color{
+  background-color: #F6C9D3;
+}
+.bg-primary-color{
+  background-color: #5956E9;
+}
+.text-primary-color{
+  color: #5956E9;
+}
+.bg-primary-brand-color{
+  background-color: #2522BA;
+}
+.hero-text-color{
+  color: #7B7682;
+}
+.text-font-size{
+  font-size: 80px;
+}
+.text-hero-font-size{
+  font-size: 70px;
+}

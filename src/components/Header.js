@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-        <header className="d-flex justify-content-between align-items-center">
+        <header className="d-flex justify-content-between align-items-center mt-5 ">
             <img src="https://new.axilthemes.com/themes/splash/abstrak/assets/media/logo.svg"/>
             <ul className="d-flex justify-content-center align-items-center gap-5 ">
               <li>
@@ -29,7 +29,7 @@ export default function Header(){
                 </a>
               </li>
               <li>
-                <button>
+                <button className="p-3 rounded-pill border text-white bg-primary-color hover:bg-primary-brand-color ">
                   Buy Now
                 </button>
               </li>
