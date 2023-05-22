@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Elemantor Page Builder",
+        "alt": "Elementor is the fastest, most intuitive editor in WordPress. Simply drag, drop and customize.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/elementor.png"
+    },
+    {
+        "id": "2",
+        "title": "Redux Framework",
+        "alt": "The most powerful, flexible, and complete WordPress interface and panel builder ever!",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/redux.png"
+    },
+    {
+        "id": "3",
+        "title": "Customizer",
+        "alt": "Abstrak comes with a live color customizer. So that you can make changes and see them in Front View.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/customizer.png"
+    },
+    {
+        "id": "4",
+        "title": "Gutenberg Support",
+        "alt": "The new Gutenberg has replaced the classic editor. It offers a new to create block-based functionality to create posts and pages in WordPress. You’ll have Gutenberg's support for the theme.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/gutenberg.png"
+    },
+    {
+        "id": "5",
+        "title": "Full Demo With One Click Installation",
+        "alt": "One-click demo installation features you can easily get the site look demo in just 5 min.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/one-click-demo.png"
+    },
+    {
+        "id": "6",
+        "title": "WooCommerce Support",
+        "alt": "The most customizable eCommerce platform for building your online business.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/woocommerce.png"
+    },
+    {
+        "id": "7",
+        "title": "Responsive Layout",
+        "alt": "All the pages of this theme are responsive. We used Bootstrap 5.x framework to build the website. It’s the best in class.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/responsive.png"
+    },
+    {
+        "id": "8",
+        "title": "Mobile-Optimized",
+        "alt": "A mobile-optimized site is a far more advanced website. Mobile optimized means that the site will reformat itself for a list of handheld or tablet devices.",
+        "image": "https://new.axilthemes.com/themes/splash/abstrak/assets/media/features/mobile.png"
+    }
+]
