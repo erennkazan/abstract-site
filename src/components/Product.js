@@ -11,7 +11,7 @@ export default function Product(){
     })
 
     return(
-        <div className="container mt-5">
+        <div className="container mt-5 d-flex flex-wrap justify-content-between">
           {pageItems.length && pageItems.map((pages,index)=> <PageItems key={index} pages={pages}/>)}
         </div>
     )
