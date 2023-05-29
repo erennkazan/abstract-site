@@ -14,7 +14,7 @@ import HeroSlider from "./components/HeroSlider";
 
 function App() {
   return (
-    <div className="">
+    <div>
       <Header/>
       <HeroSection/>
       <HeroSlider/>
