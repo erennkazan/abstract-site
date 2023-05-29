@@ -11,6 +11,7 @@ import Resources from './components/Resources'
 import Theme from './components/Theme'
 import Footer from './components/Footer'
 import HeroSlider from "./components/HeroSlider";
+import FooterEnd from "./components/FooterEnd";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <Resources/>
       <Theme/>
       <Footer/>
+      <FooterEnd/>
     </div> 
   )
 }
